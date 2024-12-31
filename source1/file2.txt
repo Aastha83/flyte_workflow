@@ -1,0 +1,37 @@
+[
+    {
+        "ProductID": 101,
+        "Name": "Wireless Mouse",
+        "Category": "Electronics",
+        "Price": 29.99,
+        "Stock": 150
+    },
+    {
+        "ProductID": 102,
+        "Name": "USB-C Charger",
+        "Category": "Electronics",
+        "Price": 19.99,
+        "Stock": 250
+    },
+    {
+        "ProductID": 103,
+        "Name": "Desk Lamp",
+        "Category": "Home & Office",
+        "Price": 39.99,
+        "Stock": 75
+    },
+    {
+        "ProductID": 104,
+        "Name": "Bluetooth Speaker",
+        "Category": "Electronics",
+        "Price": 49.99,
+        "Stock": 120
+    },
+    {
+        "ProductID": 105,
+        "Name": "Notebook",
+        "Category": "Stationery",
+        "Price": 5.99,
+        "Stock": 300
+    }
+]
