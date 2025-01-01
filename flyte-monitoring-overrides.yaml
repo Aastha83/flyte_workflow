@@ -1,0 +1,14 @@
+flyteadmin:
+  serviceMonitor:
+    enabled: true
+    labels:
+      release: kube-prometheus-stack
+    selectorLabels:
+      - app.kubernetes.io/name: flyteadmin
+flytepropeller:
+  serviceMonitor:
+    enabled: true
+    labels:
+      release: kube-prometheus-stack
+    selectorLabels:
+      - app.kubernetes.io/name: flytepropeller
