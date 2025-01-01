@@ -1,2 +1,0 @@
-flytekit==1.13.13
-minio
